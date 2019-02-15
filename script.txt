@@ -1,0 +1,13 @@
+welcome to react front to back. In this course youll learn all about the react javascript library slash framework along with the new context api, redux, firebase and more. Well start with the basics and fundamentals and move up to building a production level application with firebase.
+---
+
+Now the way I designed this course is for both beginners and intermediates. If you already know the fundamentals of javascript including es6, then this is the next step if react is what you want to learn. SOme of you may have seen my modern javascript from the beginning course, this is the snext step. If youve sen my MERN stack front to back course and were a little confused on the basics of react and redux, this will clear things up. Now even though this course is suitable for beginners, it doesnt mean its just the basics, were gonna dive deep into Reacts new context api and look at providers and consumers in a real project. Were also gona learn all about the redux state manager. and then in the final project well build and deply a client panel application using react, redux and firebase. so this is a mix of learning sections as well as real project building
+
+As far as what youll learn, id say pretty much everything there is to know about react. I also plan on adding some bonus projectes later on including some lectures and a project in Gatsby which is a static site generatoir that uses react.
+But this is the gist of what well be learning.
+
+Now even with the learning sections, I didnt wanna build a sandbox app, I wanted something that was functional and usefull so well be putting together a contact manager application with full CCReacte read update and delete using the context api and then once thats done, well do the same with redux. so well essentially end up with 2 versions of the project and then you can contrast and compare context vs redux for state management. Well also be using the jsonplaceholder mock rest api for http requests
+
+After we learn all the fundamentals well build a more production like project called client panel which is an app that a business would use to manage their customers. Well be using firebase for a backend, it will include  full authentication, a settings page to enable registration, route protection and all the things that you need to know to build real apps.
+
+Alright so in the next video were gonna do a quick overview of the projects and talk a little more about what youll be learning..see you then

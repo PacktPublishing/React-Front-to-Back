@@ -1,0 +1,28 @@
+Hey guys, in this video I just want to talk a little bit about what react is and why you would use it. 
+
+So react is a client side javascript library. Client side meaning it runs on the client which is the users machine or the users browser as oppose to the server, although it is possible to render react on the server. There is an incredible server side framework called Next which is used to do just that.
+
+React was created and is maintained by facebook. So iut has the best of the best managing it.
+
+Its used to build front end apps and user interfaces. It allows us to make uis more dynamic and separate things into components. When we use server side rendering of templates in lets say like a tradisional php site, were very limited to functionality because once the frontend is painted or laded thats it. But with react we have something called a virtual dom where we can dynamically update parts of the dom or document object model. So if we want to have lets say a form component where we can submit something or even just start typing and then have another component react to to it without reloading the page, we can do that. We can make http requests to backend servers and get and display data wihthoput reloading the page. And yea we can this with vanilla javascript but its 10x more difficult, react not only simplifies this but gives us organization by letting us make anything on the page we want into a component with its own class with its own state and methods. And well talk more about that stuff later. React is opften refered to as the v in mvc.  mvc is a design pattern that stands for model view controller. Models deal with data controlers deal with displaying views and getting data from the model, etc and then the view is what the user sees. so react by itself acts as the V...
+
+--
+
+So is react a library or a framework? Its a direct competiro of other frameworks like angular. and people often call it a framework. The reason for this is because it acts like a framework, its just missing a few things that lets say angular includes. For instance, angular has a router and an http client included in its core, react however does not BUT all you need to do is install these things separatly and react then works exactyl like a frameowrk. We have something called react router, which is not included with the core library but is easily installed. We have the fetch api opr acxios for an http client. So basically its easy to turn react into a framework which is why its a direct competitor to the others and its actualy winning at least at this point.
+
+jquery is a library which is used for many different things and reAct is a completley different animal than jquery. Its much closer to angular and vue. Then you also have state managers like Redux which belong to the rreact ecosystem to make it even more powerful.
+
+---
+
+So why learn react? You know javascript, you know how to maniupulate the dom, etc. That may be fine for tiny prohjects but to build a complete frontend application that communicates with a backend, etc in plain javascript would be 10x as difficult and would be much less organized. And a lot more code. React gives you complete organization of your ui through components. not just rendering or displaying them but gives them state data and properties attached to them.
+
+React components are reusable within the same project or even others.
+
+IOt makes your app scalable and efiicient. If you wanna add more components and functionality, it makes it very easy to do.
+
+Its lighter than most other frameworks. I dont like picking favorites. I like angular as well. It includes more in its core but its also much heavier and alot of tiomes you dont even need the stuff it includes.
+And then most importantly, reafct is the hottest technoloicy in javascript right now. Theres loads of jobs looking for react devs.
+
+So thats the gist of what react is and why you should learn it.
+
+Now lets jump in and get our environment setup so that we can do just that.

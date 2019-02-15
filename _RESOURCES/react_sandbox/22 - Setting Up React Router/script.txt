@@ -1,0 +1,6 @@
+
+<BrowserRouter>, is usually given an alias of ‘Router’ and this is the parent component that is used to store all of your <Route> components. 
+
+<Route> components are what tell your app which other components to display based on the route
+
+switch works by trying the furst route, then second then fallintg backl to the not found route.
